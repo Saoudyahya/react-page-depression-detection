@@ -1,23 +1,23 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "depression detection ",
+    "paragraph": "Depression detection using Prolog uses logical rules to analyze symptoms like mood changes and sleep issues. By inputting symptoms, Prolog infers depression levels, aiding in mental health assessments. "
   },
-  "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
-  },
+ "About": {
+  "paragraph": "Depression detection using Prolog employs logical reasoning to analyze symptoms and infer potential mental health conditions. This approach supports preliminary assessments by identifying patterns in mood, behavior, and physical indicators linked to depression.",
+  "Why": [
+    "Accurate symptom analysis",
+    "Logical inference for diagnosis",
+    "Supports mental health professionals",
+    "Customizable diagnostic rules"
+  ],
+  "Why2": [
+    "Models relationships between indicators",
+    "Enhances diagnostic precision",
+    "Easily integrates with healthcare",
+    "Scalable for diverse use cases"
+  ]
+ }, 
   "Gallery": [
     {
       "title": "Project Title",
@@ -65,70 +65,70 @@
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
-  "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
+ "Services": [
+  {
+    "icon": "fa fa-brain",
+    "name": "Symptom Analysis",
+    "text": "Prolog analyzes mood changes, sleep patterns, and other indicators to detect signs of depression effectively."
+  },
+  {
+    "icon": "fa fa-diagnoses",
+    "name": "Diagnostic Support",
+    "text": "Logical inference rules in Prolog assist healthcare professionals in preliminary depression assessments."
+  },
+  {
+    "icon": "fa fa-cogs",
+    "name": "Customizable Solutions",
+    "text": "Prolog allows creating tailored rules to fit specific diagnostic needs and frameworks for mental health."
+  },
+  {
+    "icon": "fa fa-code",
+    "name": "Rule-Based Modeling",
+    "text": "The system models relationships between symptoms to provide accurate and consistent results."
+  },
+  {
+    "icon": "fa fa-chart-line",
+    "name": "Scalable Framework",
+    "text": "Prolog-based systems can scale to accommodate diverse datasets and diagnostic scenarios."
+  },
+  {
+    "icon": "fa fa-tools",
+    "name": "Integration Ready",
+    "text": "Prolog integrates seamlessly with existing healthcare systems, enhancing mental health evaluation processes."
+  }
+],
   "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
+  {
+    "img": "img/testimonials/01.jpg",
+    "text": "\"Using Prolog for depression detection has been a game-changer. The logical approach provides accurate insights, helping us identify key patterns in patient behavior.\"",
+    "name": "Dr. Emily Carter"
+  },
+  {
+    "img": "img/testimonials/02.jpg",
+    "text": "\"The ability to customize diagnostic rules in Prolog has greatly enhanced our mental health evaluation processes. It’s efficient and reliable.\"",
+    "name": "Dr. Michael Roberts"
+  },
+  {
+    "img": "img/testimonials/03.jpg",
+    "text": "\"Prolog’s logical inference capabilities helped us detect subtle depression indicators we might have missed otherwise. Highly recommended!\"",
+    "name": "Sarah Johnson, Mental Health Specialist"
+  },
+  {
+    "img": "img/testimonials/04.jpg",
+    "text": "\"Integrating Prolog into our system has streamlined our preliminary assessments. It’s a powerful tool for mental health professionals.\"",
+    "name": "Dr. Laura Stevens"
+  },
+  {
+    "img": "img/testimonials/05.jpg",
+    "text": "\"The scalability of Prolog-based solutions means we can adapt it to various datasets and use cases effortlessly. Truly innovative!\"",
+    "name": "Dr. Ryan Taylor"
+  },
+  {
+    "img": "img/testimonials/06.jpg",
+    "text": "\"Prolog bridges the gap between technology and healthcare, offering logical solutions to complex diagnostic challenges. An invaluable asset.\"",
+    "name": "Dr. Angela Martinez"
+  }
+],
   "Team": [
     {
       "img": "img/team/01.jpg",
@@ -140,15 +140,10 @@
       "name": "Mike Doe",
       "job": "Senior Designer"
     },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
+      {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
       "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
     }
   ],
   "Contact": {
@@ -161,24 +156,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-user-md",
+      "title": "Symptom Analysis",
+      "text": "Prolog analyzes symptoms like mood changes and sleep disturbances to detect depression."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-user-md",
+      "title": "Logical Inference",
+      "text": "Logical rules in Prolog infer depression levels based on input symptoms."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-user-md",
+      "title": "Support for Diagnosis",
+      "text": "Prolog aids mental health assessments by providing preliminary diagnostic insights."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
+      "icon": "fa fa-code",
+      "title": "Rule-Based Systems",
+      "text": "Prolog's rules model relationships between depression indicators for accurate detection."
+    } 
   ]
 }
